@@ -50,7 +50,7 @@ let ( <|> ) = parseOr                                                           
                  
 
 
-let run str =  List.ofSeq str                                                                                                                                                              
+let run str =  List.ofSeq str                                                                                                                                                             
 
                                                                                                         // ---  Testing --- //
 run "Hello"                                                                                             // expected character, print output                                                             
