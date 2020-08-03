@@ -4,5 +4,5 @@ and then introduce some useful “parser combinators which will enable us to par
 
 In-depth explanation of parsing:
   - a single character can be found on http://www.sasanradan.com/post2.php
-  - a string can be found on http://www.sasanradan.com/post3.php (coming soon)
+  - a string can be found on http://www.sasanradan.com/post3.php
 
