@@ -110,3 +110,4 @@ let parseString parserString =                                                  
 run "hello"                                                                                             // input                                                                  
 |> parserRun (parseString "hello" )                                                                     // expected string
 |> printfn "%A"                                                                                         // print output
+a
